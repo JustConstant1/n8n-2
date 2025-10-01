@@ -1,0 +1,2 @@
+# Template command for connecting to your server
+ssh -i <path-to-private-key> ubuntu@<server-ip>
